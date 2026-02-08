@@ -1,6 +1,4 @@
-# Ishita my love 💕<audio id="bgMusic" autoplay loop>
-    <source src="https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Keys_of_Moon/White_Petals/Keys_of_Moon_-_White_Petals.mp3" type="audio/mpeg">
-</audio><!DOCTYPE html>
+# Ishita my love 💕
 <html lang="en">
 <head>
 <meta charset="UTF-8">
