@@ -94,8 +94,8 @@ footer {
     <div class="card">
         <p>What do you think I love the most about you?</p>
         <button onclick="quiz(true)">Your smile</button>
-        <button onclick="quiz(false)">Your phone</button>
-        <button onclick="quiz(false)">Your food taste</button>
+        <button onclick="quiz(false)">Your figure 😭🤧🤧🥹</button>
+        <button onclick="quiz(false)">love everything about u yrr 🥺 💗 💝 taste</button>
         <p id="quizResult"></p>
     </div>
 </section>
@@ -117,7 +117,7 @@ footer {
     <h2>🔐 Final Challenge</h2>
     <div class="card">
         <p>Type the name written in my heart:</p>
-        <input id="answer" placeholder="Your name ❤️"
+        <input id="answer" placeholder="ISHITA"
                style="padding:12px;border-radius:20px;border:none;text-align:center;">
         <br><br>
         <button onclick="checkName()">Unlock</button>
